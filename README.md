@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eman</h1>
-<h3 align="center">Full Stack Developer from Pilipinas</h3>
+<h3 align="center">Full Stack Developer from PILIPINAS 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines Flag" width="25"/> !
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrax10&label=Profile%20views&color=0e75b6&style=flat" alt="spyrax10" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/spyrax10](https://github.com/spyrax10)
+
 
 - 📫 How to reach me **smarteman10@gmail.com**
 
