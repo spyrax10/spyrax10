@@ -19,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyrax10&show_icons=true&locale=en&layout=compact" alt="spyrax10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyrax10&" alt="spyrax10" /></p>
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=spyrax10&theme=radical)](https://streak-stats.demolab.com/?user=spyrax10)
+
