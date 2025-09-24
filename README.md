@@ -49,6 +49,6 @@
 ### 📊 GitHub Stats
 | Top Languages | Streak Stats |
 |---------------|--------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyrax10&layout=compact&theme=radical)](https://github.com/spyrax10) | [![GitHub Streak](https://streak-stats.demolab.com/?user=spyrax10&theme=radical&hide_border=true)](https://streak-stats.demolab.com/?user=spyrax10) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyrax10&layout=compact&theme=radical)](https://github.com/spyrax10) | [![GitHub Streak](https://streak-stats.demolab.com/?user=spyrax10&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com/?user=spyrax10) |
 
 
